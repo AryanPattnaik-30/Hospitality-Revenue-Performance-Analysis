@@ -1,0 +1,77 @@
+
+Problem Statement: -
+
+			AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
+
+Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
+Create the metrics according to the metric list.
+Create a dashboard according to the mock-up provided by stakeholders.
+Create relevant insights that are not provided in the metric list/mock-up dashboard.
+# Hospitality Domain Analytics Dashboard | Power BI
+
+## 📌 Project Overview
+This project focuses on analyzing key performance metrics of the hospitality industry using **Power BI**.  
+The dashboard helps hotel management understand **revenue trends, occupancy behavior, booking patterns, and customer performance** across cities, room categories, platforms, and time periods.
+
+The analysis enables **data-driven decision-making** to improve pricing strategies, maximize occupancy, and reduce cancellations.
+
+---
+
+## 🎯 Business Objective
+- Monitor hotel performance across multiple cities
+- Identify revenue-driving locations and room categories
+- Track occupancy, ADR, and RevPAR trends
+- Analyze booking platform performance
+- Understand cancellation behavior
+- Compare weekday vs weekend performance
+
+---
+
+## 📊 Key KPIs & Metrics
+- **Revenue**
+- **Occupancy %**
+- **ADR (Average Daily Rate)**
+- **RevPAR (Revenue Per Available Room)**
+- **DSRN (Daily Sellable Room Nights)**
+- **DBRN (Daily Booked Room Nights)**
+- **DURN (Daily Utilized Room Nights)**
+- **Realisation %**
+- **Cancellation %**
+- **Average Rating**
+- **Week-on-Week (WoW) Change %**
+
+---
+
+## 📈 Dashboard Insights
+- Revenue contribution by city (Mumbai, Bangalore, Hyderabad, Delhi)
+- Occupancy distribution by room category and class
+- ADR, Occupancy %, and RevPAR trend by week number
+- Platform-wise performance (MakeMyTrip, Tripster, LogTrip, Direct Online, etc.)
+- Property-level comparison using key metrics
+- Weekday vs Weekend performance analysis
+
+---
+
+## 🛠 Tools & Technologies Used
+- **Power BI**
+- **DAX (Data Analysis Expressions)**
+- **Power Query**
+- **Excel (Data Source)**
+- **Data Modeling**
+- **Data Cleaning & Transformation**
+- **Interactive Visualizations**
+
+---
+
+## 🧠 Skills Demonstrated
+- Business Analytics
+- KPI Design & Calculation
+- DAX Measures
+- Data Modeling (Star Schema)
+- Dashboard Design & Storytelling
+- Hospitality Domain Knowledge
+- Performance Optimization
+
+---
+
+## 📂 Repository Structure
