@@ -1,5 +1,5 @@
 # Hospitality Domain Analytics Dashboard | Power BI
-
+Link to Live Dashboard: - https://app.powerbi.com/view?r=eyJrIjoiYTY1YzFhZWItNzk4NC00NzlkLTgyYjgtOWJmNGNmOGIyOWVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 ## 📌 Project Overview
 This project focuses on analyzing key performance metrics of the hospitality industry using **Power BI**.  
 The dashboard helps hotel management understand **revenue trends, occupancy behavior, booking patterns, and customer performance** across cities, room categories, platforms, and time periods.
