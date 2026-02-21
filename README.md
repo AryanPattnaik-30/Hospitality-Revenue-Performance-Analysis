@@ -1,68 +1,76 @@
-# Hospitality Domain Analytics Dashboard | Power BI
-Link to Live Dashboard: - https://app.powerbi.com/view?r=eyJrIjoiYTY1YzFhZWItNzk4NC00NzlkLTgyYjgtOWJmNGNmOGIyOWVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-## 📌 Project Overview
-This project focuses on analyzing key performance metrics of the hospitality industry using **Power BI**.  
-The dashboard helps hotel management understand **revenue trends, occupancy behavior, booking patterns, and customer performance** across cities, room categories, platforms, and time periods.
+# 🏨 Hospitality Analytics Dashboard | Power BI
+## 🔗 Live Dashboard: - https://app.powerbi.com/view?r=eyJrIjoiYTY1YzFhZWItNzk4NC00NzlkLTgyYjgtOWJmNGNmOGIyOWVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+---
+## 🏢 Business Problem
 
-The analysis enables **data-driven decision-making** to improve pricing strategies, maximize occupancy, and reduce cancellations.
+Hotel management lacked centralized visibility into revenue performance, occupancy behavior, booking platforms, and cancellation trends across multiple cities.
+This limited strategic decision-making around pricing, inventory optimization, and marketing channel performance.
 
 ---
 
-## 🎯 Business Objective
-- Monitor hotel performance across multiple cities
-- Identify revenue-driving locations and room categories
-- Track occupancy, ADR, and RevPAR trends
-- Analyze booking platform performance
-- Understand cancellation behavior
+## 🎯 Objective
+
+Design an interactive Power BI dashboard to:
+
+- Monitor multi-city hotel performance
+- Track revenue-driving properties and room categories
+- Analyze occupancy, ADR, and RevPAR trends
+- Identify cancellation patterns
 - Compare weekday vs weekend performance
+- Evaluate booking platform efficiency
 
 ---
 
-## 📊 Key KPIs & Metrics
-- **Revenue**
-- **Occupancy %**
-- **ADR (Average Daily Rate)**
-- **RevPAR (Revenue Per Available Room)**
-- **DSRN (Daily Sellable Room Nights)**
-- **DBRN (Daily Booked Room Nights)**
-- **DURN (Daily Utilized Room Nights)**
-- **Realisation %**
-- **Cancellation %**
-- **Average Rating**
-- **Week-on-Week (WoW) Change %**
+## 📊 Key KPIs Designed
+
+- Revenue
+- Occupancy %
+- ADR (Average Daily Rate)
+- RevPAR (Revenue Per Available Room)
+- DSRN (Daily Sellable Room Nights)
+- DBRN (Daily Booked Room Nights)
+- DURN (Daily Utilized Room Nights)
+- Realisation %
+- Cancellation %
+- Average Rating
+- Week-on-Week Growth %
 
 ---
 
-## 📈 Dashboard Insights
-- Revenue contribution by city (Mumbai, Bangalore, Hyderabad, Delhi)
-- Occupancy distribution by room category and class
-- ADR, Occupancy %, and RevPAR trend by week number
-- Platform-wise performance (MakeMyTrip, Tripster, LogTrip, Direct Online, etc.)
-- Property-level comparison using key metrics
-- Weekday vs Weekend performance analysis
+## 📈 Strategic Insights
+
+- Mumbai contributes highest revenue among all cities
+- Luxury category shows higher ADR but lower occupancy consistency
+- Weekends generate higher RevPAR compared to weekdays
+- Certain booking platforms show high cancellation %
+- Revenue dip observed during specific weekly cycles
+
 
 ---
 
-## 🛠 Tools & Technologies Used
-- **Power BI**
-- **DAX (Data Analysis Expressions)**
-- **Power Query**
-- **Excel (Data Source)**
-- **Data Modeling**
-- **Data Cleaning & Transformation**
-- **Interactive Visualizations**
+## 🛠 Technical Implementation
 
+- Power BI Data Modeling (Star Schema)
+- DAX Measures for KPI Calculations
+- Time Intelligence (WoW % Change)
+- Power Query for Data Cleaning
+- Interactive slicers & drill-through functionality
+  
 ---
 
 ## 🧠 Skills Demonstrated
-- Business Analytics
-- KPI Design & Calculation
-- DAX Measures
-- Data Modeling (Star Schema)
-- Dashboard Design & Storytelling
-- Hospitality Domain Knowledge
-- Performance Optimization
+
+✔ Business KPI Design  
+✔ Revenue & Hospitality Analytics  
+✔ Advanced DAX  
+✔ Data Modeling  
+✔ Dashboard Storytelling  
+✔ Performance Analysis
 
 ---
 
-## 📂 Repository Structure
+## 📂 Repository Contents
+
+- Hospitality Domain.pbix
+- Hospitality Domain.png
+- README.md
